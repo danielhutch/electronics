@@ -13,4 +13,4 @@ A higher value resistor blocks more voltage.
 
 470R ohm   = Brightest LED
 
-![A very simple circuit with an LED and a resistor]({{ site.baseurl }}{{ post.url }}img/2013-08-18-resistors.jpg)
+![A very simple circuit with an LED and a resistor]({{ site.baseurl }}{{ post.url }}/img/2013-08-18-resistors.jpg)
