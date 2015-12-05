@@ -12,10 +12,10 @@ Current = Rate at which electrons flow though a given point
 Resistance = Opposition to the flow of electricity
 
 Voltage is like the difference in height. 
-![Voltage analogy](img/2013-09-02-voltage.jpg)
+![Voltage analogy]({{ site.baseurl }}{{ post.url }}img/2013-09-02-voltage.jpg)
 
 Current is like the rate of flow through a pipe.
-![Current analogy](img/2013-09-02-current.jpg)
+![Current analogy]({{ site.baseurl }}{{ post.url }}img/2013-09-02-current.jpg)
 
 Resistance is a bit like a narrowing in a pipe, that causes a change in current.
-![Resistance analogy](img/2013-09-02-resistance.jpg)
+![Resistance analogy]({{ site.baseurl }}{{ post.url }}img/2013-09-02-resistance.jpg)
