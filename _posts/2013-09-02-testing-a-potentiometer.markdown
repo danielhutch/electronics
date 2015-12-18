@@ -14,8 +14,8 @@ Measuring the full potential of a 1k potentiometer
 ![Measuring the full potential of a 1k potentiometer]({{ site.baseurl }}{{ post.url }}/img/2013-09-02-testing-a-potentiometer-full-potential.jpg)
 
 Measuring a 1k potentiometer fully closed
-![Measuring the full potential of a 1k potentiometer]({{ site.baseurl }}{{ post.url }}/img/2013-09-02-testing-a-potentiometer-fully-closed.jpg)
+![Measuring a 1k potentiometer fully closed]({{ site.baseurl }}{{ post.url }}/img/2013-09-02-testing-a-potentiometer-fully-closed.jpg)
 
 Measuring a 1k potentiometer fully open
-![Measuring the full potential of a 1k potentiometer]({{ site.baseurl }}{{ post.url }}/img/2013-09-02-testing-a-potentiometer-fully-open.jpg)
+![Measuring a 1k potentiometer fully open]({{ site.baseurl }}{{ post.url }}/img/2013-09-02-testing-a-potentiometer-fully-open.jpg)
 
