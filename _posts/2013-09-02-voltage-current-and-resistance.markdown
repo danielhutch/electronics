@@ -2,7 +2,7 @@
 layout: post
 title:  "Voltage, current and resistance"
 date:   2013-09-02 00:00:00 +0000
-categories: Theory
+categories: Fundamentals
 permalink: voltage-current-and-resistance
 ---
 Voltage = A difference in electrical potential (pressure)

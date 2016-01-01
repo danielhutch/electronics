@@ -2,7 +2,7 @@
 layout: post
 title:  "Measuring voltage"
 date:   2013-09-02 01:00:00 +0000
-categories: Testing Theory
+categories: Testing Fundamentals
 permalink: measuring-voltage
 ---
 A ‘V’ with a 〜 symbol means alternating current
