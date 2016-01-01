@@ -2,7 +2,7 @@
 layout: post
 title:  "Volt and ampere basics"
 date:   2013-09-08 00:00:00 +0000
-categories: Theory
+categories: Fundamentals
 permalink: volt-and-ampere-basics
 ---
 

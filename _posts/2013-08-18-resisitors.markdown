@@ -2,7 +2,7 @@
 layout: post
 title:  "Resistors"
 date:   2013-08-18 02:00:00 +0000
-categories: Circuit Theory
+categories: Circuit Fundamentals
 permalink: resistors
 ---
 A higher value resistor blocks more voltage.
