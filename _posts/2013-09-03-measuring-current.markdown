@@ -72,4 +72,4 @@ If we multiply the resistance by the amperage, we (roughly) end up with the volt
 <p style="padding-left: 30px;"><em>voltage = (ohms x 1,000) x (amps/1,000)</em></p>
 The two factors of 1,000 cancel out so we get:
 <p style="padding-left: 30px;"><em>voltage = ohms x amps</em></p>
-This experiment introduces <a title="Ohm’s Law" href="http://www.danielhutchinson.co.uk/electronics/ohms-law/">Ohm’s Law</a>.
+This experiment introduces <a title="Ohm’s Law" href="ohms-law/">Ohm’s Law</a>.
