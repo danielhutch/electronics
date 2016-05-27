@@ -6,7 +6,6 @@ categories: Fundamentals
 permalink: ohms-law
 ---
 
-
 V = voltage<br>
 I = current<br>
 R = resistance
