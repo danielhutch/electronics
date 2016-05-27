@@ -6,8 +6,6 @@ categories: Testing
 permalink: measuring-current
 ---
 
-
-
 The <a title="International System of Units" href="http://en.wikipedia.org/wiki/International_System_of_Units">SI</a> unit for measuring an electric current is the <a title="Ampere" href="http://en.wikipedia.org/wiki/Ampere">ampere</a>.
 
 To measure current the multimeter has to be inserted into the circuit. The multimeter is set to mA (milliamps).

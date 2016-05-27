@@ -6,7 +6,6 @@ categories: Fundamentals
 permalink: volt-and-ampere-basics
 ---
 
-
 <strong>Volt basics</strong>
 <table>
 <tbody>

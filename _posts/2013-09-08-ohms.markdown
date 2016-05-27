@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Ohms"
+date:   2013-09-08 00:20:00 +0000
+categories: Fundamentals
+permalink: ohms
+---
+
+Electrical resistance is measured in ohms, and indicated by the omega symbol Ω.
+<table>
+<tbody>
+<tr>
+<th><span style="line-height: 2;">Number of Ohms</span></th>
+<th>Usually expressed as</th>
+<th>Abbreviated as</th>
+</tr>
+<tr>
+<td>1,000 ohms</td>
+<td>1 kilohm</td>
+<td>1KΩ or 1K</td>
+</tr>
+<tr>
+<td>10,000 ohms</td>
+<td>10 kilohms</td>
+<td>10KΩ or 10K</td>
+</tr>
+<tr>
+<td>100,000 ohms</td>
+<td>100 kilohms</td>
+<td>100KΩ or 100K</td>
+</tr>
+<tr>
+<td>1,000,000 ohms</td>
+<td>1 megohm</td>
+<td>1MΩ or 1M</td>
+</tr>
+<tr>
+<td>10,000,000 ohms</td>
+<td>10 megohms</td>
+<td>10MΩ or 10M</td>
+</tr>
+</tbody>
+</table>
