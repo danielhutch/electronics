@@ -7,15 +7,15 @@ permalink: ohms-law
 ---
 
 
-V = voltage
-I = current
+V = voltage<br>
+I = current<br>
 R = resistance
 
 ![Ohm’s law pyramid diagram]({{ site.baseurl }}{{ post.url }}/img/2013-09-08_ohms-law-pyramid-diagram.jpg)
 
 V = I x R<br>
 I = V/R<br>
-R=V/I
+R = V/I
 
 Below is a simplified table from the <a title="Measuring Current" href="measuring-current/">Measuring Current</a> post, showing this in practice.
 <table>
