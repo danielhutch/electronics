@@ -13,4 +13,4 @@ permalink: basic-schematic-symbols-switches
 ![single pole single throw switch]({{ site.baseurl }}{{ post.url }}/img/2013-11-05_dpdt_switch.gif)
 
 
-Double-pole, double-throw switch
+<em>Double-pole, double-throw switch<em>
